@@ -1,0 +1,48 @@
+.bg-container{
+    height: 100vh;
+    text-align: center;
+    background-color: lightgrey;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 80px;
+    font-weight: 300;
+    color: darkmagenta;
+}
+.button{
+    padding: 30px;
+    border-radius: 10px;
+    height: 10vh;
+    width:  10vw;
+    margin: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.button1{
+    background-color: #e0e0e0;
+}
+.button2{
+    background-color: #6fcf97;
+}
+.button3{
+    background-color: #56ccf2;
+}
+.button4{
+    background-color: #bb6bd9;
+}
+.paragraph{
+    height: 10vh;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight:100;
+    color: darkgreen;
+    background-color: black;
+    border-radius: 20px;
+   
+}
+.span-el{
+  color:whitesmoke
+}
